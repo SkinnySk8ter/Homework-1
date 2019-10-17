@@ -1,0 +1,17 @@
+
+.h1 {
+    margin: 5%;
+    border: blue;
+    padding: 2%;
+    background-color: deepskyblue;
+    width: 25%;
+
+}
+
+.p {
+    color:  #777777;
+    font-size: large;
+    text-align: center;
+    
+    ;
+}
