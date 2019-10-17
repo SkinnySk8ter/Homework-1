@@ -1,0 +1,36 @@
+.h1 {
+    margin: 5%;
+    border: blue;
+    padding: 2%;
+    background-color: deepskyblue;
+    width: 25%;
+
+}
+
+.p {
+    color:  #777777;
+    font-size: large;
+    text-align: center;
+    margin-bottom: 20px;
+    
+    
+}
+
+.header {  position: fixed;
+    z-index: 99;
+    width: 100%;
+    margin: 0 0 30px;
+    overflow: auto;
+    color: #ffffff;
+    background: #ffffff;
+    border-bottom: 2px solid #cccccc;
+
+
+}
+
+#jodyjones {
+padding: 20%;
+margin-right: 75%;
+color: antiquewhite;
+
+}
