@@ -1,3 +1,11 @@
+.container {
+width: 100%;
+max-width: 960px;
+margin: 0 auto;
+clear: both;
+
+}
+
 .h1 {
     margin: 5%;
     border: blue;
@@ -24,18 +32,21 @@
     color: #ffffff;
     background: #ffffff;
     border-bottom: 2px solid #cccccc;
+    padding-top: 0%;
 }
 
 
 .paragraph1 {
-margin-top: 30%;
-padding-top: 30%;
+    width: 960px;
+margin-top: 15%;
+margin-left: 30%;;
 background-color: #ffffff;
 float:right
 }
 
 #contact {
     float: right;
+    
 }
 
 #portfolio {
