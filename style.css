@@ -24,13 +24,12 @@
     color: #ffffff;
     background: #ffffff;
     border-bottom: 2px solid #cccccc;
-
-
 }
 
-#jodyjones {
-padding: 20%;
-margin-right: 75%;
-color: antiquewhite;
 
+.paragraph1 {
+margin-top: 30%;
+padding-top: 30%;
+background-color: #ffffff;
+float:right
 }
