@@ -16,3 +16,6 @@ The files within this document are going to be updated on a regular basis! Howev
 5.It looks like the files are all out in the open but I assure you----all css and images documents are located in assests folder. (currently in the process of figuring out how to delete the extra files such as "portfolio")
 
 
+*6.The contact page is the example page for the rest of the document!*
+
+
