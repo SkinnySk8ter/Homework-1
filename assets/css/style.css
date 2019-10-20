@@ -10,7 +10,12 @@ body {
     box-sizing: border-box;
   }
   
-  
+  #myimage {
+
+    float: left;
+    width: 200px;
+    height: 200px;
+  }
   
   .container {
     width: 100%;
@@ -216,3 +221,14 @@ body {
     border: 0 none;
   }
   
+  .portimg {
+    width: 150px;
+    height: 150px;
+
+
+  }
+
+  .myimg {
+    width: 200px;
+    height: 200px;
+  }
