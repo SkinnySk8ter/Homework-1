@@ -10,11 +10,11 @@ body {
     box-sizing: border-box;
   }
   
-  #myimage {
+  #myimg {
 
     float: left;
-    width: 200px;
-    height: 200px;
+    width: 300px;
+    height: 325px;
   }
   
   .container {
